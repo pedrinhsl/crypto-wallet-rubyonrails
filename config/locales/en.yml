@@ -1,0 +1,27 @@
+en:
+  current_locale: "English (International)"
+  back_to_home: "Home"
+  hello: "Hello world"
+  welcome: "Welcome!"
+  messages:
+    welcome: "This is Crypt Wallet, an app for you to register and track your cryptocurrencies."
+    menu: "To get started select one of the options below"
+    confirmation: "Are you sure?"
+  links:
+    edit: "Edit"
+    show: "Show"
+    delete: "Delete"
+    new: "New"
+    back: "Back"
+  new:
+    coin: "New Coin"
+    mining_type: "New Mining Type"
+  editing:
+    coin: "Editing Coin"
+    mining_type: "Editing Mining Type"
+  show:
+    coin: "Show Coin"
+    mining_type: "Show Mining Type"    
+  showing:
+    coin: "Showing Coin"
+    mining_type: "Showing Mining Type"    
