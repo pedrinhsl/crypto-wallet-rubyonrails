@@ -37,6 +37,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'pry-rails'
 gem 'tty-spinner'
 gem 'rails-i18n', '~> 5.1'
+gem 'webpacker'
+gem 'jquery-rails'
 
 # source 'http://rails-assets.org' do
 #   gem 'rails-assets-jquery'
